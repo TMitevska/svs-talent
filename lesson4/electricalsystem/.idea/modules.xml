@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/electricalsystem.iml" filepath="$PROJECT_DIR$/electricalsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fan/fan.iml" filepath="$PROJECT_DIR$/fan/fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamp/lamp.iml" filepath="$PROJECT_DIR$/lamp/lamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powerbutton/powerbutton.iml" filepath="$PROJECT_DIR$/powerbutton/powerbutton.iml" />
+    </modules>
+  </component>
+</project>
